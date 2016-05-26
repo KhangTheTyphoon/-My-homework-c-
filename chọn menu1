@@ -1,3 +1,7 @@
+//Khởi tạo mảng ngẫu nhiên
+// Xuất mảng đó ra màn hình
+//Tìm phần tử lớn nhất, nhỏ nhất của mảng
+//Tìm và in ra phần tử âm  tận cùng bằng 6
 #include "iostream"
 using namespace std;
 void nhapmang(int a[], int &n);
